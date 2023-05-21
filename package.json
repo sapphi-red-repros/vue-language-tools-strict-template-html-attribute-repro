@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "tsc": "node node_modules/vue-tsc/bin/vue-tsc.js",
-    "tsc13": "node node_modules/vue-tsc14/bin/vue-tsc.js"
+    "tsc13": "node node_modules/vue-tsc13/bin/vue-tsc.js"
   },
   "dependencies": {
     "vue": "^3.2.47"
